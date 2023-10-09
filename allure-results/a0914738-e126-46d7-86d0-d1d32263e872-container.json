@@ -1,0 +1,1 @@
+{"uuid":"a0914738-e126-46d7-86d0-d1d32263e872","name":"com.demo.testcase.AllureUserCase","children":["8550d4a5-7b7f-4d7d-abec-da083c3a0f29"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1696833397292,"stop":1696833397296}],"afters":[],"links":[],"start":1696833397273,"stop":1696833397967}

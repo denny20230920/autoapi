@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <!--配置测试套件中的测试组-->
+    <test name="AllureUserCase">
+        <!--配置测试类-->
+        <classes>
+            <class name="com.demo.testcase.AllureUserCase"></class>
+        </classes>
+    </test>
+
+    <test name="AllureBookCase">
+        <!--配置测试类-->
+        <classes>
+            <class name="com.demo.testcase.AllureBookCase"></class>
+        </classes>
+    </test>
+</suite>
